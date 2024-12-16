@@ -1,6 +1,24 @@
 # Created by https://www.toptal.com/developers/gitignore/api/git,rider,unrealengine,visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=git,rider,unrealengine,visualstudio
 
+### LF ###
+./Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_01_BC.uasset
+./Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_01_N.uasset
+./Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_02_BC.uasset
+./Content/AutomotiveWinterScene/CustomAssets/Stone_Wall/T_Stone_Wall_BC.uasset
+./Content/AutomotiveWinterScene/CustomAssets/Stone_Wall/T_Stone_Wall_N.uasset
+./Content/AutomotiveWinterScene/Megascans/3D_Assets/Ice_Cliff_01/T_Ice_Cliff_01_N.uasset
+./Content/AutomotiveWinterScene/Megascans/3D_Assets/Quarry_Cliff_03/T_Quarry_Cliff_03_BC.uasset
+./Content/AutomotiveWinterScene/Megascans/3D_Assets/Road_01/T_Road_01_N.uasset
+./Content/AutomotiveWinterScene/Megascans/3D_Assets/Road_01/T_Road_01_TRO.uasset
+./Content/AutomotiveWinterScene/Megascans/3D_Assets/Road_01/T_Road_01_Wet_N.uasset
+./Content/AutomotiveWinterScene/Megascans/3D_Assets/Road_01/T_Road_01_Wet_TRD.uasset
+./Content/AutomotiveWinterScene/Megascans/3D_Assets/Roadside_01/T_Roadside_01_BC.uasset
+./Content/AutomotiveWinterScene/Megascans/3D_Assets/Roadside_01/T_Roadside_01_N.uasset
+./Content/AutomotiveWinterScene/Megascans/3D_Assets/Rock_Assembly_01/T_Rock_Assembly_01_N.uasset
+./Content/AutomotiveWinterScene/Megascans/3D_Assets/Rock_Assembly_01/T_Rock_Assembly_01_TRO.uasset
+./Content/AutomotiveWinterScene/Megascans/3D_Assets/Roadside_01/T_Roadside_01_TRO.uasset
+
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
